@@ -1,0 +1,11 @@
+feature,plain,L2 (C=0.02),L1 (C=0.02)
+RevolvingUtilizationOfUnsecuredLines,0.7144,0.7088,0.7014
+age,-0.2321,-0.2304,-0.2202
+NumberOfTime30-59DaysPastDueNotWorse,0.2782,0.2785,0.2768
+DebtRatio,-0.073,-0.0719,-0.0602
+MonthlyIncome,-0.1613,-0.1581,-0.1407
+NumberOfOpenCreditLinesAndLoans,0.1738,0.1694,0.1595
+NumberOfTimes90DaysLate,0.305,0.3045,0.3016
+NumberRealEstateLoansOrLines,0.13,0.1281,0.1161
+NumberOfTime60-89DaysPastDueNotWorse,0.1798,0.1799,0.1777
+NumberOfDependents,0.0572,0.0573,0.0515

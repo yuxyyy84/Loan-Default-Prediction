@@ -1,0 +1,11 @@
+feature,coefficient,odds_ratio
+RevolvingUtilizationOfUnsecuredLines,0.7144,2.043
+NumberOfTimes90DaysLate,0.305,1.3566
+NumberOfTime30-59DaysPastDueNotWorse,0.2782,1.3208
+NumberOfTime60-89DaysPastDueNotWorse,0.1798,1.197
+NumberOfOpenCreditLinesAndLoans,0.1738,1.1899
+NumberRealEstateLoansOrLines,0.13,1.1388
+NumberOfDependents,0.0572,1.0588
+DebtRatio,-0.073,0.9296
+MonthlyIncome,-0.1613,0.851
+age,-0.2321,0.7929
